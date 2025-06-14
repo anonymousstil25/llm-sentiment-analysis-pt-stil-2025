@@ -137,7 +137,7 @@ This dataset was created to evaluate sentiment analysis models in the Portuguese
     + Description: A collection of movie reviews from IMDb, with sentiment labels indicating positive or negative feedback from the reviewers.
 
 2. [tweet_sentiment.csv](https://www.kaggle.com/datasets/sahideseker/tweet-sentiment-classification-dataset)
-    + Description: A dataset of tweets classified by sentiment (positive or negative), ideal for short text sentiment analysis tasks.
+    + Description: A dataset of tweets classified by sentiment (positive, negative, or neutral), ideal for short text sentiment analysis tasks.
 
 3. [g_reviews.csv](https://www.kaggle.com/datasets/ziya07/sentiment-tagged-book-review-dataset)
     + Description: A collection of book reviews classified with sentiments (positive, negative, or neutral), useful for sentiment analysis in literary contexts.
